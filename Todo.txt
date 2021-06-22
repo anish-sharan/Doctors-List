@@ -1,0 +1,9 @@
+google buttom 
+$ env
+
+format code
+remove console , dead code
+$ add comments 
+sign validation
+fill doctor name
+$ git
