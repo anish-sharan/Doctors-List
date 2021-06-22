@@ -10,7 +10,7 @@ Commands can be run on terminal(linux/unix) or command-line(Windows)
      DB=!!!Mongo DB connection string!!! (for example, mongodb://localhost:27017/doctordb)<br />
      PORT=!!!Port number where backend app is to be run!!!<br />
   
-  2. cd to client and add another .env file with the following parameters:
+  2. cd to client and add another .env file with the following parameters:<br />
      REACT_APP_URL=!!!backend app url!!! (for example, http://localhost:5000)<br />
      REACT_APP_CLIENT_ID=!!!Google OAuth Client Id!!!<br />
      REACT_APP_CLIENT_SECRET=!!!Google OAuth Client Secret!!!<br />
